@@ -1,21 +1,11 @@
+# Hey, I'm Ishan Jaiswal
 
+### Computer Science Student @ IIIT Bhopal | Developer | AI/ML Enthusiast
 
-\<!-- GitHub Profile README for Ishan Jaiswal (@ishan-cod) -->
+[Portfolio](https://ishanj.vercel.app) · [GitHub](https://github.com/ishan-cod) · [LinkedIn](https://linkedin.com/in/ishan-jaiswal-178b71313)
 
-\<h1 align="center">Hey, I'm Ishan Jaiswal\</h1>
-
-\<h3 align="center">Computer Science Student @ IIIT Bhopal · Developer · AI/ML Enthusiast\</h3>
-
-\<p align="center">
-&#x20; \<a href="[https://ishanj.vercel.app](https://ishanj.vercel.app)">Portfolio\</a> ·
-&#x20; \<a href="[https://github.com/ishan-cod](https://github.com/ishan-cod)">GitHub\</a> ·
-&#x20; \<a href="[https://linkedin.com/in/ishan-jaiswal-178b71313](https://linkedin.com/in/ishan-jaiswal-178b71313)">LinkedIn\</a>
-\</p>
-
-\<p align="center">
-&#x20; \<img src="[https://komarev.com/ghpvc/?username=ishan-cod&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=ishan-cod\&label=Profile%20views\&color=0e75b6\&style=flat)" alt="Profile views" />
-&#x20; \<img src="[https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fishan-cod&query=%24.public_repos&label=Public%20repos&logo=github&logoColor=white&color=181717](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fishan-cod\&query=%24.public_repos\&label=Public%20repos\&logo=github\&logoColor=white\&color=181717)" alt="Public repositories" />
-\</p>
+![Profile views](https://komarev.com/ghpvc/?username=ishan-cod&label=Profile%20views&color=0e75b6&style=flat)
+![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fishan-cod&query=%24.public_repos&label=Public%20repos&logo=github&logoColor=white&color=181717)
 
 ---
 
@@ -23,49 +13,24 @@
 
 I'm a Computer Science student at **IIIT Bhopal** who enjoys building practical software and exploring how AI can solve real-world problems.
 
-- Currently building **[Error Battle](https://errorbattle.vercel.app/)** — a 1v1 Codeforces battle platform.
+- Currently building **[Error Battle](https://errorbattle.vercel.app/)**, a 1v1 Codeforces battle platform.
 - Interested in **AI/ML, Generative AI, backend engineering, and full-stack development**.
-- Built **Vartaraksha**, an AI-powered voice-cloning and impersonation detection concept for Smart India Hackathon 2026.
+- Built **[Vartaraksha](https://github.com/Ishan-cod/VartaRaksha)**, a voice-cloning impersonation detection project developed for Smart India Hackathon 2026.
 - Always learning, experimenting, and turning ideas into working projects.
-- More about me: **[ishanj.vercel.app](https://ishanj.vercel.app)**
+- More about me: **[ishanj.vercel.app](https://ishanj.vercel.app)**.
 
 ---
 
 ## Featured Projects
 
-\<table>
-&#x20; \<tr>
-&#x20;   \<td width="50%" valign="top">
-&#x20;     \<h3>\<a href="[https://github.com/Ishan-cod/1v1cfbattle](https://github.com/Ishan-cod/1v1cfbattle)">Error Battle\</a>\</h3>
-&#x20;     \<p>A 1v1 competitive-programming platform where two players solve the same Codeforces problems, race against a timer, and follow a live scoreboard.\</p>
-&#x20;     \<p>\<a href="[https://errorbattle.vercel.app/](https://errorbattle.vercel.app/)">\<strong>Live Demo\</strong>\</a>\</p>
-&#x20;     \<p>\<sub>Next.js · MongoDB · Codeforces API\</sub>\</p>
-&#x20;   \</td>
-&#x20;   \<td width="50%" valign="top">
-&#x20;     \<h3>\<a href="[https://github.com/Ishan-cod/VartaRaksha](https://github.com/Ishan-cod/VartaRaksha)">Vartaraksha\</a>\</h3>
-&#x20;     \<p>An AI-powered security concept that detects cloned-voice impersonation and suspicious conversation patterns during calls.\</p>
-&#x20;     \<p>\<sub>Smart India Hackathon 2026 · Team AAKATSUKI\</sub>\</p>
-&#x20;     \<p>\<sub>Python · Deep Learning · Speech Processing\</sub>\</p>
-&#x20;   \</td>
-&#x20; \</tr>
-&#x20; \<tr>
-&#x20;   \<td width="50%" valign="top">
-&#x20;     \<h3>\<a href="[https://github.com/Ishan-cod/AI_INTERVIEWEE](https://github.com/Ishan-cod/AI_INTERVIEWEE)">AI Interviewee\</a>\</h3>
-&#x20;     \<p>An AI-powered interview practice project designed to help users prepare for technical interviews.\</p>
-&#x20;     \<p>\<a href="[https://ai-vue-sand.vercel.app/](https://ai-vue-sand.vercel.app/)">\<strong>Project Site\</strong>\</a>\</p>
-&#x20;     \<p>\<sub>Next.js · AI/LLMs · Web Development\</sub>\</p>
-&#x20;   \</td>
-&#x20;   \<td width="50%" valign="top">
-&#x20;     \<h3>\<a href="[https://github.com/Ishan-cod/ChatbotInterface_INGRES_SIH](https://github.com/Ishan-cod/ChatbotInterface_INGRES_SIH)">INGRES Chatbot\</a>\</h3>
-&#x20;     \<p>A chatbot interface project developed as part of the Smart India Hackathon project work.\</p>
-&#x20;     \<p>\<sub>Python · Conversational AI\</sub>\</p>
-&#x20;   \</td>
-&#x20; \</tr>
-\</table>
+| Project | Description | Links |
+|---|---|---|
+| **Error Battle** | A 1v1 competitive-programming platform where two players solve the same Codeforces problems, race against a timer, and follow a live scoreboard. | [Repository](https://github.com/Ishan-cod/1v1cfbattle) · [Live Demo](https://errorbattle.vercel.app/) |
+| **Vartaraksha** | An AI-powered security project designed to detect cloned-voice impersonation and suspicious conversation patterns during calls. | [Repository](https://github.com/Ishan-cod/VartaRaksha) |
+| **AI Interviewee** | An AI-powered interview practice project designed to help users prepare for technical interviews. | [Repository](https://github.com/Ishan-cod/AI_INTERVIEWEE) · [Project Site](https://ai-vue-sand.vercel.app/) |
+| **INGRES Chatbot** | A chatbot interface project developed as part of Smart India Hackathon project work. | [Repository](https://github.com/Ishan-cod/ChatbotInterface_INGRES_SIH) |
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/Ishan-cod?tab=repositories](https://github.com/Ishan-cod?tab=repositories)">\<strong>Explore All Repositories\</strong>\</a>
-\</p>
+[Explore all repositories](https://github.com/Ishan-cod?tab=repositories)
 
 ---
 
@@ -73,72 +38,57 @@ I'm a Computer Science student at **IIIT Bhopal** who enjoys building practical 
 
 ### Languages
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=c,cpp,py,js,html,css](https://skillicons.dev/icons?i=c,cpp,py,js,html,css)" alt="C, C++, Python, JavaScript, HTML and CSS" />
-\</p>
+![Languages](https://skillicons.dev/icons?i=c,cpp,python,js,html,css)
 
 ### Web Development & Databases
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql)" alt="React, Next.js, Node.js, Express, MongoDB and MySQL" />
-\</p>
+![Web development and databases](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql)
 
 ### AI / ML & Data
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=pytorch,opencv,sklearn](https://skillicons.dev/icons?i=pytorch,opencv,sklearn)" alt="PyTorch, OpenCV and scikit-learn" />
-&#x20; \<br />
-&#x20; \<img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)" alt="Pandas" />
-&#x20; \<img src="[https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge\&logoColor=white)" alt="Seaborn" />
-\</p>
+![AI and machine learning](https://skillicons.dev/icons?i=pytorch,opencv,sklearn)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
 
 ### Developer Tools & Platforms
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,linux,postman,vscode](https://skillicons.dev/icons?i=git,github,linux,postman,vscode)" alt="Git, GitHub, Linux, Postman and VS Code" />
-\</p>
+![Developer tools](https://skillicons.dev/icons?i=git,github,linux,postman,vscode)
 
 ---
 
 ## GitHub Analytics
 
-\<p align="center">
-&#x20; \<img height="180" src="[https://github-stats-extended.vercel.app/api?username=ishan-cod&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true](https://github-stats-extended.vercel.app/api?username=ishan-cod\&show_icons=true\&include_all_commits=true\&theme=tokyonight\&hide_border=true)" alt="GitHub statistics" />
-&#x20; \<img height="180" src="[https://github-stats-extended.vercel.app/api/top-langs/?username=ishan-cod&layout=compact&langs_count=8&theme=tokyonight&hide_border=true](https://github-stats-extended.vercel.app/api/top-langs/?username=ishan-cod\&layout=compact\&langs_count=8\&theme=tokyonight\&hide_border=true)" alt="Most used languages" />
-\</p>
+![GitHub statistics](https://github-readme-stats.vercel.app/api?username=ishan-cod&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-cod&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=ishan-cod&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=ishan-cod\&theme=tokyonight\&hide_border=true)" alt="GitHub contribution streak" />
-\</p>
+### Contribution Streak
+
+![GitHub contribution streak](https://streak-stats.demolab.com?user=ishan-cod&theme=tokyonight&hide_border=true)
 
 ### GitHub Trophies
 
-\<p align="center">
-&#x20; \<img src="[https://github-profile-trophy.vercel.app/?username=ishan-cod&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1](https://github-profile-trophy.vercel.app/?username=ishan-cod\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=6\&row=1)" alt="GitHub profile trophies" />
-\</p>
+![GitHub profile trophies](https://github-profile-trophy.vercel.app/?username=ishan-cod&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1)
 
-### Contribution Activity
+### Contribution Activity Graph
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=ishan-cod&theme=tokyo-night&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=ishan-cod\&theme=tokyo-night\&hide_border=true\&area=true)" alt="GitHub contribution activity graph" />
-\</p>
+![GitHub contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ishan-cod&theme=tokyo-night&hide_border=true&area=true)
 
 ### Contribution & Commit Overview
 
-\<p align="center">
-&#x20; \<img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishan-cod&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishan-cod\&theme=tokyonight)" alt="Contribution and commit overview" />
-\</p>
+![Contribution and commit overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishan-cod&theme=tokyonight)
 
 ---
 
 ## Connect with Me
 
-\<p>
-&#x20; \<a href="[https://linkedin.com/in/ishan-jaiswal-178b71313](https://linkedin.com/in/ishan-jaiswal-178b71313)">\<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn" />\</a>
-&#x20; \<a href="[https://www.codechef.com/users/ishan_cder](https://www.codechef.com/users/ishan_cder)">\<img src="[https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge\&logo=codechef\&logoColor=white)" alt="CodeChef" />\</a>
-&#x20; \<a href="[https://codeforces.com/profile/only_error](https://codeforces.com/profile/only_error)">\<img src="[https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge\&logo=codeforces\&logoColor=white)" alt="Codeforces" />\</a>
-&#x20; \<a href="[https://leetcode.com/ishan_cder/](https://leetcode.com/ishan_cder/)">\<img src="[https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)" alt="LeetCode" />\</a>
-&#x20; \<a href="[https://ishanj.vercel.app](https://ishanj.vercel.app)">\<img src="[https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge\&logo=vercel\&logoColor=white)" alt="Portfolio" />\</a>
-\</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-jaiswal-178b71313)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ishan_cder)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/only_error)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ishan_cder/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://ishanj.vercel.app)
 
-&#x20;\<p align="center">Thanks for visiting my profile!\</p>
+---
+
+*Build. Break. Learn. Repeat.*
+
+Thanks for visiting my profile!
